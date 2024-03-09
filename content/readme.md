@@ -5,5 +5,6 @@ Skills
 - Python
 - R (including Tidyverse)
 - E-Basic
+- Effective Operational Fluency in French (CEFR Low C1 Level)
 
-[Here's]](/post) for more information about me!
+[Here's]](/post) for more information about me & the things I do.
