@@ -8,7 +8,7 @@ pygmentsUseClasses = true
 
 [params]
   author = "Ezra M. Wingard"
-  description = "In solitude, where we are least alone."
+  description = "On peut allumer des dizaines de bougies à partir d'une seule sans en abréger la vie. On ne diminue pas le bonheur en le partageant."
   github = "ewingard"
   linkedin = "ewingard"
   email = "emwingard07@gmail.com"
@@ -26,5 +26,6 @@ pygmentsUseClasses = true
   [[params.links]]
     title = "Link"
     href = "https://github.com/ewingard"
+    
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
