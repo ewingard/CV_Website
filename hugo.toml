@@ -14,18 +14,18 @@ pygmentsUseClasses = true
   email = "emwingard07@gmail.com"
   url = "https://ewingard.xyz"
   keywords = "psychology, cognitive science"
-  rss = true
+  rss = off
   lastmod = true
   userStatusEmoji = "😀"
-  favicon = "/images/github.png"
-  avatar = "/images/avatar.png"
+  favicon = "/images/icon.png"
+  avatar = "/images/EMW.png"
   headerIcon = "/images/GitHub-Mark-Light-32px.png"
   location = "South Carolina"
   enableGitalk = true
 
   [[params.links]]
-    title = "Link"
-    href = "https://github.com/ewingard"
+    title = "ORCiD Link"
+    href = "https://orcid.org/0009-0008-5315-2370"
     
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]

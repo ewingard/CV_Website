@@ -3,7 +3,7 @@ title = 'The Impact of Biases in Facial Recognition Artificial Neural Networks'
 date = 2024-03-08T17:31:11-05:00
 draft = false
 tags = ["project","ComputerScience"]
-summary = 'SUNY Oswego Honors thesis on Facial Recognition AI'
+summary = "SUNY Oswego Honors thesis on Facial Recognition AI"
 +++
 In the field of artificial intelligence, the topic of neural network prejudice and bias is becoming more well-known by the day. More instances of unethical AI practices have been documented by the [AIAAIC database](https://www.aiaaic.org/aiaaic-repository), with instances branching outside of the scope of this project. It is now well understood that there is a major issue with how we are currently creating neural networks, because a lot of the facial recognition software (whether it be for commercial or personal use) that is being created is deeply flawed in regards to accuracy and equity between populations. For example, there have been many studies that show facial recognition and automatic gender recognition (AGR) technology's accuracy rates are significantly worse on [Black Women](https://www.media.mit.edu/projects/gender-shades/overview/) and/or [transgender](https://www.morgan-klaus.com/pdfs/pubs/Scheuerman-CSCW2019-HowComputersSeeGender.pdf) people. Because of this influx of new research on the subject of AI Ethics since [around 2014](https://hai.stanford.edu/news/2022-ai-index-industrialization-ai-and-mounting-ethical-concerns), I decided to try my hand at helping the field try to mitigate this issue, because of the devastating real-life effects that this can have when this technology is deployed commercially or by the government on these populations.
 
