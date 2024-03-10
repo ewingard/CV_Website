@@ -5,6 +5,7 @@ draft = false
 tags = ["Experience"]
 summary = "Professional & Volunteer Experience"
 +++
+
 {{<details "Research Experience">}}
 
 #### Research Assistant
