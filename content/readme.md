@@ -1,4 +1,4 @@
-Hi there! My name is Ezra M. Wingard, and I am a 2023 Graduate of SUNY Oswego, currently working on the [SC-WB Study](https://www.b-radlab.com/sc-wb-study.html) under Dr. Caitlin Hudac at the University of South Carolina. I have varying research interests, but the major question I seek to answer is "What is it like?" Current avenues of research that I am pursuing include: how our personal identity affects behaviors within adolescent social behaviors.
+Greetings! My name is Ezra M. Wingard, a proud 2023 alumnus of SUNY Oswego, presently engaged in the [SC-WB Study](https://www.b-radlab.com/sc-wb-study.html) under the guidance of Dr. Caitlin Hudac at the University of South Carolina. My academic and professional journeys are fueled by a diverse array of research interests, with a focus on this inquiry: "What is it like?" Currently, I am delving into how our personal identity/identities (LGBTQ+ belonging, race, gender, ethnicity, socio-economic status, etc.) may affect social behaviors.
 
 Skills
 ---
