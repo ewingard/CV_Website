@@ -1,7 +1,9 @@
 +++
 title = 'The Relationship Between Embodied Cognition (EC) and Aphantasia'
 date = 2024-03-08T17:31:11-05:00
+tags = ["project","CognitiveScience"]
 draft = false
+summary = "SUNY Oswego Capstone Project for Cognitive Science"
 +++
 
 This project was conducted for my Cognitive Science Capstone (COG468) at SUNY Oswego. For this class, it served as the culmination of my studies within the Cognitive Science major. The COG468 Capstone entailed a research project on a subject relating to Cognitive Science, a final oral exam, creation and updates to my [course webpage](http://cs.oswego.edu/~ewingard/COG468WorkSite/) and other miscellaneous classwork that related to Cognitive Science.

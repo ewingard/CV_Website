@@ -2,6 +2,8 @@
 title = 'Experience'
 date = 2024-03-08T17:31:11-05:00
 draft = false
+tags = ["Experience"]
+summary = "Professional & Volunteer Experience"
 +++
 {{<details "Research Experience">}}
 

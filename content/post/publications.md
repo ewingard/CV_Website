@@ -2,6 +2,8 @@
 title = 'Publications'
 date = 2024-03-08T17:31:11-05:00
 draft = false
+tags = ["Publications"]
+summary = "Publications by Ezra"
 +++
 
 {{<details "Honors Thesis">}}

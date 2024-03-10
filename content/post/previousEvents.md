@@ -1,7 +1,8 @@
 +++
-title = 'Experience'
+title = 'Previous Talks & Presentations'
 date = 2024-03-08T17:31:11-05:00
 draft = true
+summary = "Previous Talks & Presentations"
 +++
 
 Wingard, E. M. (2023, April 19). The Impact of Biases in Facial Recognition Artificial Neural Networks [Conference presentation]. SUNY Oswego Quest Week 2023, Oswego, NY.
