@@ -164,7 +164,7 @@ pygmentsUseClasses = true
   lastmod = true
   userStatusEmoji = "😀"
   favicon = "/images/github.png"
-  avatar = "/images/avatar.png"
+  avatar = "/images/EMW.png"
   headerIcon = "/images/GitHub-Mark-Light-32px.png"
   location = "China"
   enableGitalk = true
@@ -188,7 +188,7 @@ pygmentsUseClasses = true
   [[params.links]]
     title = "Link2"
     href = "https://meik2333.com"
-    icon = "https://meik2333.com/images/avatar.png"
+    icon = "https://meik2333.com/images/EMW.png"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
