@@ -63,6 +63,7 @@ Relationships Across Development (RAD) Laboratory, supervised by Dr. Matthew Dyk
 - Met regularly with research participants to access psychological data relevant to the study
 - Arranged time-specific meetings with participants via email
 - Collaboratively created a professional poster to demonstrate results from the research lab at a local conference
+
 {{</details>}}
 
 {{<details "Professional Experience">}}
@@ -95,3 +96,5 @@ Oswego County Opportunities (OCO)</br> Oswego, New York</br>
 - Tactfully communicated with multiple diverse communities and maintained confidentiality
 - Created training materials on diverse topics such as sexual health and LGBT+ identities
 - Provided public trainings on LGBTQ+ identities to promote understanding of diverse experiences
+
+{{</details>}}
