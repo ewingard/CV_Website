@@ -7,4 +7,4 @@ Skills
 - E-Basic
 - Effective Operational Fluency in French (CEFR Low C1 Level)
 
-[Here's](/post) more information about me & the things I do.
+[Click here](/post) for more information about me & the things I do.

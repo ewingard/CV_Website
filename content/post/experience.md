@@ -99,3 +99,25 @@ Oswego County Opportunities (OCO)</br> Oswego, New York</br>
 - Provided public trainings on LGBTQ+ identities to promote understanding of diverse experiences
 
 {{</details>}}
+
+{{<details "Volunteer Experience">}}
+
+#### President, Vice President, Cognitive Science Club
+Fall 2020 — Spring 2023 </br>
+SUNY Oswego</br>
+- Moderated group activities and discussions to spark interest in the field of cognitive science
+- Directed and planned activities for club meetings, focusing on topics related to Cognitive Science and related fields
+- Successfully increased club participation by 30% during the academic year
+#### Volunteer Member, Student Health Advisory Council (SHAC)
+Spring 2022</br>
+SUNY Oswego</br>
+- Contributed to discussions on health, counseling, and prevention activities on campus, offering feedback and insights
+- Provided recommendations for enhancing health services and resources on campus
+#### President, Vice President, Queer Trans Outreach Center (QTOC)
+Fall 2021 — Fall 2022</br>
+SUNY Oswego</br>
+- Conducted multiple information sessions on LGBTQ+ topics, resources, and equity, engaging both students and faculty
+- Organized and hosted events to support LGBTQ+ students and faculty, fostering inclusivity and advocacy on campus
+- Coordinated the Day of Silence event, which included a silent march and facilitation of discussions about encouraging campus initiatives to counter LGBTQ+ harassment and discrimination
+
+{{</details>}}
